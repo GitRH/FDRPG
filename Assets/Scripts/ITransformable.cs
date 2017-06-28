@@ -1,4 +1,4 @@
-﻿//
+﻿//----------------------------------------------------------------------------80
 // ITransformable.cs
 // The purpose of this Interface script is to have an Interface for transforming
 // GameObjects
